@@ -1,9 +1,12 @@
-package wci.frontend.pascal;
+package org.culpan.hct.frontend.pascal;
 
-import wci.frontend.*;
-import wci.message.Message;
+import org.culpan.hct.frontend.EofToken;
+import org.culpan.hct.frontend.Parser;
+import org.culpan.hct.frontend.Scanner;
+import org.culpan.hct.frontend.Token;
+import org.culpan.hct.message.Message;
 
-import static wci.message.MessageType.PARSER_SUMMARY;
+import static org.culpan.hct.message.MessageType.PARSER_SUMMARY;
 
 /**
  * <h1>PascalParserTD</h1>

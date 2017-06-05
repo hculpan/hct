@@ -1,4 +1,4 @@
-package wci.message;
+package org.culpan.hct.message;
 
 import java.util.ArrayList;
 

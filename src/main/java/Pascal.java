@@ -1,12 +1,13 @@
 import java.io.BufferedReader;
 import java.io.FileReader;
 
-import wci.frontend.*;
-import wci.intermediate.*;
-import wci.backend.*;
-import wci.message.*;
-
-import static wci.message.MessageType.*;
+import org.culpan.hct.backend.Backend;
+import org.culpan.hct.backend.BackendFactory;
+import org.culpan.hct.frontend.FrontendFactory;
+import org.culpan.hct.frontend.Parser;
+import org.culpan.hct.frontend.Source;
+import org.culpan.hct.intermediate.*;
+import org.culpan.hct.message.*;
 
 /**
  * <h1>Pascal</h1>

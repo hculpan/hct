@@ -1,8 +1,8 @@
-package wci.frontend;
+package org.culpan.hct.frontend;
 
-import wci.intermediate.ICode;
-import wci.intermediate.SymTab;
-import wci.message.*;
+import org.culpan.hct.intermediate.ICode;
+import org.culpan.hct.intermediate.SymTab;
+import org.culpan.hct.message.*;
 
 /**
  * <h1>Parser</h1>

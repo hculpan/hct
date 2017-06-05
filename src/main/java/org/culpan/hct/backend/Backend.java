@@ -1,8 +1,8 @@
-package wci.backend;
+package org.culpan.hct.backend;
 
-import wci.intermediate.ICode;
-import wci.intermediate.SymTab;
-import wci.message.*;
+import org.culpan.hct.intermediate.ICode;
+import org.culpan.hct.intermediate.SymTab;
+import org.culpan.hct.message.*;
 
 /**
  * <h1>Backend</h1>

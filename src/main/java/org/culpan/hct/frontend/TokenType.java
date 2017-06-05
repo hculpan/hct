@@ -1,4 +1,4 @@
-package wci.frontend;
+package org.culpan.hct.frontend;
 
 /**
  * <h1>TokenType</h1>

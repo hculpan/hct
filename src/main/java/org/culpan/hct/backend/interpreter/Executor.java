@@ -1,11 +1,11 @@
-package wci.backend.interpreter;
+package org.culpan.hct.backend.interpreter;
 
-import wci.backend.*;
-import wci.intermediate.ICode;
-import wci.intermediate.SymTab;
-import wci.message.*;
+import org.culpan.hct.backend.Backend;
+import org.culpan.hct.intermediate.ICode;
+import org.culpan.hct.intermediate.SymTab;
+import org.culpan.hct.message.*;
 
-import static wci.message.MessageType.INTERPRETER_SUMMARY;
+import static org.culpan.hct.message.MessageType.INTERPRETER_SUMMARY;
 
 /**
  * <h1>Executor</h1>

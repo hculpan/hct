@@ -1,10 +1,10 @@
-package wci.frontend;
+package org.culpan.hct.frontend;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 
-import wci.message.*;
-import static wci.message.MessageType.SOURCE_LINE;
+import org.culpan.hct.message.*;
+import static org.culpan.hct.message.MessageType.SOURCE_LINE;
 
 /**
  * <h1>Source</h1>

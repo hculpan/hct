@@ -1,7 +1,7 @@
-package wci.frontend;
+package org.culpan.hct.frontend;
 
-import wci.frontend.pascal.PascalParserTD;
-import wci.frontend.pascal.PascalScanner;
+import org.culpan.hct.frontend.pascal.PascalParserTD;
+import org.culpan.hct.frontend.pascal.PascalScanner;
 
 /**
  * <h1>FrontendFactory</h1>

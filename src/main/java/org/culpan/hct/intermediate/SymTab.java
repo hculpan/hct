@@ -1,4 +1,4 @@
-package wci.intermediate;
+package org.culpan.hct.intermediate;
 
 /**
  * <h1>SymTab</h1>

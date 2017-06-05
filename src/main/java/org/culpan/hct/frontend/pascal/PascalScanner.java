@@ -1,7 +1,11 @@
-package wci.frontend.pascal;
+package org.culpan.hct.frontend.pascal;
 
-import wci.frontend.*;
-import static wci.frontend.Source.EOF;
+import org.culpan.hct.frontend.EofToken;
+import org.culpan.hct.frontend.Scanner;
+import org.culpan.hct.frontend.Source;
+import org.culpan.hct.frontend.Token;
+
+import static org.culpan.hct.frontend.Source.EOF;
 
 /**
  * <h1>PascalScanner</h1>

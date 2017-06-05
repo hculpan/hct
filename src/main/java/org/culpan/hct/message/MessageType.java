@@ -1,4 +1,4 @@
-package wci.message;
+package org.culpan.hct.message;
 
 /**
  * <h1>MessageType</h1>

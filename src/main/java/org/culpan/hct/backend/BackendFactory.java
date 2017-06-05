@@ -1,7 +1,7 @@
-package wci.backend;
+package org.culpan.hct.backend;
 
-import wci.backend.compiler.CodeGenerator;
-import wci.backend.interpreter.Executor;
+import org.culpan.hct.backend.compiler.CodeGenerator;
+import org.culpan.hct.backend.interpreter.Executor;
 
 /**
  * <h1>BackendFactory</h1>

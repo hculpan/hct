@@ -1,11 +1,11 @@
-package wci.backend.compiler;
+package org.culpan.hct.backend.compiler;
 
-import wci.backend.*;
-import wci.intermediate.ICode;
-import wci.intermediate.SymTab;
-import wci.message.*;
+import org.culpan.hct.backend.Backend;
+import org.culpan.hct.intermediate.ICode;
+import org.culpan.hct.intermediate.SymTab;
+import org.culpan.hct.message.*;
 
-import static wci.message.MessageType.COMPILER_SUMMARY;
+import static org.culpan.hct.message.MessageType.COMPILER_SUMMARY;
 
 /**
  * <h1>CodeGenerator</h1>
